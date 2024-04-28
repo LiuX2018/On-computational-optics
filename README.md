@@ -1,4 +1,4 @@
-# On-computations-optics
+# On-computational-optics
 
 This repository shares ***my insights*** into the exciting field of computational optics, where the principles of optics meet the power of computer science.
 
