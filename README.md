@@ -4,7 +4,7 @@ This repository shares ***my insights*** into the exciting field of computationa
 
 ## What is Computational Optics?
 
-In a nutshell, ***Computational Optics*** combines the study of light (optics) with the problem-solving power of computer science, particularly its expertise in tackling intricate inverse problems.
+In a nutshell, ***Computational Optics*** combines the study of light (optics) with the problem-solving power of computational science, particularly its expertise in tackling intricate inverse problems.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ Delving into computational optics requires a foundation in either optics or comp
 
 ## My Journey: A Focus on Optics
 
-My background exemplifies this approach. My undergraduate studies and Ph.D. research in Optoelectronic Information Science and Engineering and Optical Engineering solidified my foundation in optics. While computer science algorithms are crucial for solving inverse problems, I primarily leverage existing algorithms with occasional modifications to serve my specific needs.
+My background exemplifies this approach. My undergraduate studies and Ph.D. research in Optoelectronic Information Science and Engineering and Optical Engineering solidified my foundation in optics. While computational science is crucial for solving inverse problems, I primarily leverage existing algorithms with occasional modifications to serve my specific needs.
 
 ## To be continued
 
